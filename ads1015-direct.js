@@ -3,6 +3,8 @@
 //I'm actully not sure this is how it's suppose to be done. Nevertheless, it would need some callibration to be a little more precise.
 //Reading 3.3V with a multimeter, I'm getting roughtly a 0.1V lower reading.
 
+//Using this lib : https://www.npmjs.com/package/raspi-kit-ads1x15
+
 "use strict";
 
 const Raspi = require('raspi');
